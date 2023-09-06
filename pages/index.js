@@ -3,8 +3,10 @@
 const Home = () => {
   return (
     <> 
-    <h1> Welcome</h1>
-    <h2>Supa Songs App</h2>
+    <div className="page home">
+      <h2>Home</h2>
+      <h3>Supa Songs</h3>
+    </div>
     </>
   )
 }

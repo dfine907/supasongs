@@ -2,7 +2,9 @@ import React from 'react'
 
 const Create = () => {
   return (
-    <div>Create</div>
+    <div className="page create">
+      <h2>Create</h2>
+    </div>
   )
 }
 
